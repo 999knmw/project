@@ -1,0 +1,8 @@
+Server-side refers to processes run on a web server to handle tasks like database interactions and logic
+client-side refers to processes run on the user's device (like a browser) to handle the user interface and visual presentation
+
+HTML, or Hypertext Markup Language, is the backbone of web pages. It provides the structure and content of a website, allowing developers to define headings, paragraphs, images, and links. Without HTML, a website would lack structure, making it difficult to navigate and understand.
+
+CSS, or Cascading Style Sheets, is responsible for the visual presentation of a website. It allows developers to enhance the user experience by customizing colors, fonts, layouts, and animations. CSS provides developers with a wide range of properties and options to create visually stunning user interfaces.
+
+JavaScript adds interactivity and functionality to websites. With JavaScript, developers can create dynamic elements, validate forms, handle events, and add multimedia content. It enables the creation of interactive features that enhance user engagement and improve overall user experience.
