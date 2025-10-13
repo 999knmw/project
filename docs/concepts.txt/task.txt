@@ -1,3 +1,14 @@
+fatima al-zahraa mohammed 4999 
+Group 9:
+Sabreen Ashraf 4836
+Tasneem Khalid 4890
+Sara Bel-Eid 4939
+Rahaf Gadri 4872
+
+the images folder contains all assests used in the project (image-wise).
+the docs/concepts describes all the answers to the project questions.
+css folder will contain all the css assests.
+
 Server-side refers to processes run on a web server to handle tasks like database interactions and logic
 client-side refers to processes run on the user's device (like a browser) to handle the user interface and visual presentation
 
@@ -7,9 +18,3 @@ CSS, or Cascading Style Sheets, is responsible for the visual presentation of a 
 
 JavaScript adds interactivity and functionality to websites. With JavaScript, developers can create dynamic elements, validate forms, handle events, and add multimedia content. It enables the creation of interactive features that enhance user engagement and improve overall user experience.
 
-fatima al-zahraa mohammed 4999 
-Group 9:
-Sabreen Ashraf 4836
-Tasneem Khalid 4890
-Sara Bel-Eid 4939
-Rahaf Gadri 4872
