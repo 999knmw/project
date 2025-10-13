@@ -6,3 +6,10 @@ HTML, or Hypertext Markup Language, is the backbone of web pages. It provides th
 CSS, or Cascading Style Sheets, is responsible for the visual presentation of a website. It allows developers to enhance the user experience by customizing colors, fonts, layouts, and animations. CSS provides developers with a wide range of properties and options to create visually stunning user interfaces.
 
 JavaScript adds interactivity and functionality to websites. With JavaScript, developers can create dynamic elements, validate forms, handle events, and add multimedia content. It enables the creation of interactive features that enhance user engagement and improve overall user experience.
+
+fatima al-zahraa mohammed 4999 
+Group 9:
+Sabreen Ashraf 4836
+Tasneem Khalid 4890
+Sara Bel-Eid 4939
+Rahaf Gadri 4872
